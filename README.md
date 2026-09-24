@@ -109,7 +109,7 @@ Solana has multiple transaction confirmation gateways, including:
 
 - 3️⃣ Remaining transactions are auto-failed or canceled to prevent duplicates or slippage.
 
-✅ Why Racing?
+✅ Why Racing? What?
 
 - Reduces latency
 
