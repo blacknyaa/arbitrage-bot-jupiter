@@ -19,9 +19,6 @@ Step up your game with real yield.
 
 ### Contact to Developer
 
-
-Hello
-
 For support and further inquiries, please connect via Telegram: 📞 [0xalberto](https://t.me/soladity)
 
 ---
